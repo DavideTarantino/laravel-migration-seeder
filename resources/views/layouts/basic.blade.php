@@ -8,8 +8,6 @@
     <title>@yield('title')</title>
 
     @vite('resources/js/app.js')
-
-    @yield('style')
 </head>
 
 <body>
